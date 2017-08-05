@@ -1,0 +1,82 @@
+body{
+    background-image: url("45.jpg");
+}
+
+
+h3{
+    font: normal 40px 'Roboto Slab';
+    color: white;
+}
+
+h4{
+    font: normal 20px 'Roboto Slab';
+    color: white;
+}
+
+.spons-card{
+    max-width: 150px;
+    height: 150px;
+/*    background-color: #e6e6e6;*/
+    background-color: #121111;
+    margin-top: 50px;
+}
+
+.spons-img{
+    height: auto;
+    width: 100px;
+    margin: auto;
+    padding-top: 20px;
+}
+
+.bb{
+    padding-top: 60px;
+}
+
+.ce{
+    padding-top: 25px;
+}
+
+.ie{
+    padding-top: 50px;
+}
+
+.jb{
+    padding-top: 35px;
+}
+
+.jcb{
+    padding-top: 60px;
+}
+
+.kaf{
+    padding-top: 30px;
+}
+
+.yep{
+    padding-top: 60px;
+}
+
+
+
+footer li{
+                display: inline-block;
+                list-style: none;
+                text-align: center;
+                padding: 20px 40px 20px;
+/*                background-color: gray;*/
+            }
+
+footer ul{
+    margin: 0px;
+    
+}
+
+            footer a{
+                color: white;
+            }
+            
+            footer{
+                text-align: center;
+                background-color: black;
+                margin-top: 100px;
+            }
